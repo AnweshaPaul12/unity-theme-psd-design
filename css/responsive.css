@@ -1,0 +1,724 @@
+@media (max-width: 1200px) {
+
+	.carousel-inner{
+		left: 15px;
+	}
+	.carousel-control.left{
+		margin-left: 25px;
+	}
+	.carousel-caption{
+		left:142px;
+		top:20px;
+		width: 388px;
+    	height: 180px;
+	}
+
+	.carousel-control.right{
+		margin-right: 190px;
+	}
+	.carousel-caption h2{
+		font-size: 55px;
+    	line-height: 55px;
+	}
+	.table-section{
+		// width: 105%;
+    	margin-top: -8px;
+    	margin-left: -25px;
+	}
+	.table-section span{
+		font-size:20px;
+	}
+	.box2 .media-body::before{
+		left: 188px;
+	}
+	.box2 .media-body{
+		padding-top: 31px;
+    	padding-right: 35px
+	}
+	.box2 .media-body::after{
+		top: 140px;
+    	left: 83px;
+	}
+	.custom-navbar{
+		margin-left: 217px;
+		
+		}
+
+	.first-section-text-block h1{
+		font-size: 85px;
+ 		line-height: 90px;
+	}
+	.first-section-text-block p{
+	    font-size: 32px;
+	    padding: 16px 100px;
+	    line-height: 45px;
+	}
+	.box1 a{
+		font-size: 300px;
+	}
+	.box1 .media-body::before{
+		top: -105px;
+	   	height: 550px;
+
+	}
+	.complexity-section h1{
+		font-size: 85px;
+    	line-height: 80px;
+	}
+
+	.complexity-section p{
+	    
+		margin-left: 46px;
+	}
+	.layout-section{
+		margin-left: 20px;
+	}
+	.vedio-heading h1{
+		font-size: 90px;
+    	line-height: 85px;
+	}
+	.vedio-heading p{
+		padding: 10px 106px;
+	}
+
+	.carousel::before{
+		left: 0;
+	}
+	.section-brief h1{
+		font-size: 80px;
+	}
+
+	.section-brief p{
+		font-size: 32px;
+    	padding: 0 100px;
+    	line-height: 40px;
+	}
+	.complexity-section{
+		margin-left:40px;
+	}
+
+}
+
+@media (max-width: 1023px){
+.custom-navbar{
+	margin-left: 202px;
+}
+
+.first-section-text-block p{
+	padding: 16px 100px;
+}
+.complexity-section h1{
+	font-size: 79px;
+    line-height: 72px;
+}
+
+.complexity-section p{
+	font-size: 15px;
+	margin-top: 55px;
+}
+
+.box1 h1{
+	font-size:80px;
+}
+
+.box1 p{
+	font-size: 25px;
+    line-height: 22px;
+}
+.vedio-heading p{
+	padding: 10px 116px;
+}
+.box2 a{
+	font-size: 280px;
+    font-weight: 300;
+    line-height: 230px;
+}
+
+.box2 .media-body::before{
+	left: 260px;
+    top: -123px;
+
+}
+.box2 .media-body::after{
+	top: 112px;
+    left: 196px;
+}
+
+.box2 h1{
+	font-size: 75px;
+  	line-height: 65px;
+}
+
+.box2 p{
+	font-size: 24px;
+    line-height: 13px;
+}
+.box2 .media-body
+{
+	padding-right: 20px;
+}
+
+.box3 .media-right a{
+	font-size: 280px;
+    line-height: 230px;
+}
+.carousel::before{
+	height: 362px;
+	top: 171px;
+}
+.carousel-caption{
+	width: 306px;
+    height: 147px;
+    top: 50px;
+}
+
+.carousel-caption h2{
+	font-size: 45px;
+    line-height: 47px;
+}
+.carousel-caption p{
+	font-size: 12px;
+    line-height: 20px;
+}
+.table-section{
+	// width: 133%;
+   margin-top: 21px;
+    margin-left: -85px;
+}
+.table-section span{
+	font-size:18px;
+}
+
+.table-section td{
+	padding: 12px 0;
+}
+
+.section-brief h1{
+	font-size:65px;
+	margin-bottom: 6px;
+}
+.section-brief p{
+	font-size: 30px;
+    padding: 0 145px;
+}
+
+
+.details-card p{
+	font-size: 18px;
+    line-height: 22px;
+    padding: 0 26px;
+}
+
+.details-card-section p:first-child{
+	margin-top: 100px;
+}
+
+.aboutus-area p{
+	font-size: 12px;
+    line-height: 22px;
+  	margin-top: -5px;
+}
+
+.blog-area .media-heading{
+	font-size: 12px;
+}
+
+.blog-area p{
+	font-size: 12px;
+}
+
+
+}
+
+@media(max-width:991px){
+
+.custom-navbar {
+    margin-left: 105px;
+}
+.first-section-text-block h1 {
+    font-size: 79px;
+    line-height: 80px;
+}
+.first-section-text-block p {
+    padding: 16px 53px;
+}
+.box1 a {
+    font-size: 250px;
+}
+.box1 h1 {
+    font-size: 65px;
+    line-height: 70px;
+}
+.box1 .media-body::before {
+    top: -64px;
+    height: 484px;
+    left:-15px;
+}
+
+.box1 .media-body::after{
+	top: 113px;
+    left: 393px;
+}
+
+.complexity-section h1 {
+    font-size: 65px;
+    line-height: 63px;
+}
+
+.complexity-section p {
+    margin-left: 28px;
+}
+.vedio-heading p {
+    padding: 10px 36px;
+}
+.box2 .media-body::before {
+    left: 43px;
+  
+}
+.box2 .media-body::after {
+    
+    left: -12px;
+}
+
+.section-brief p{
+	padding: 0 77px;
+}
+
+.details-card p{
+	padding: 0;
+}
+
+.box3 .media-right a {
+    font-size: 150px;
+    line-height: 148px;
+}
+.table-section {
+    // width: 135%;
+    margin-top: 10px;
+    margin-left: 0px;
+}
+.table-section span{
+	font-size: 13px;
+}
+.carousel-control.right {
+    margin-right: 174px;
+}
+.carousel-control.left {
+    margin-left: 14px;
+}
+
+.carousel-caption {
+    width: 298px;
+    height: 145px;
+    top: 35px;
+}
+
+}
+@media(max-width:767px){
+.first-section-text-block p {
+    font-size: 26px;
+}
+.box1 a {
+    font-size: 200px;
+    line-height: 155px;
+}
+
+.box1 h1 {
+    font-size: 55px;
+    line-height: 55px;
+}
+.box1 .media-body::before{
+	width: calc(100% - 200px);
+	height: 442px;
+	display:none;
+}
+.box1 .media-body::after {
+    top: 58px;
+    left: 386px;
+    display:none;
+}
+.box1 .media-body{
+	padding-left: 9px;
+}
+.box2 .media-body::before {
+    left: 174px;
+    width: calc(100% - 150px);
+    height: 381px;
+    top: 45px;
+    display:none;
+}
+.box2 a {
+    font-size: 212px;
+}
+.box2 .media-body::after {
+    left: 97px;
+    display:none;
+}
+.box2 h1 {
+    font-size: 65px;
+}
+.box2 p {
+    font-size: 20px;
+}
+.complexity-section p {
+    margin-left: -1px;
+    padding-right: 77px;
+}
+
+
+.carousel::before {
+  display:none;
+}
+.box3 .media-right a {
+    font-size: 210px;
+    line-height: 287px;
+}
+.carousel-caption {
+    width: 332px;
+   left:55%;
+    top: 71px;
+}
+
+.carousel-control.right {
+    margin-right: 230px;
+}
+.table-section {
+    // width: 110%;
+   
+    // margin-left: 63px;
+
+}
+.table-section span {
+    font-size: 24px;
+}
+
+.aboutus-area h4{
+	text-align: center;
+    font-size: 22px;
+}
+.aboutus-area p {
+    font-size: 17px;
+    line-height: 22px;
+    margin-top: -5px;
+    padding: 0 23px;
+}
+.social-media-block{
+	padding: 17px 28px;
+}
+
+.details-card{
+	margin-right:10px;
+}
+
+.complexity-section p {
+    margin-left: -1px;
+    padding-right: 0px;
+    margin-top:6px;
+}
+.section-1 a{
+padding: 0 40%;
+}
+.section-1 p{
+	text-align: center;
+}
+.details-card{
+	margin-bottom:40px;
+}
+.back-image{
+	height:2000px;
+}
+.active-section{
+	overflow: hidden;
+}
+
+.section-brief {
+    text-align: center;
+    margin-top: 100px;
+}
+.section-brief h1 {
+    font-size: 44px;
+    margin-bottom: 6px;
+}
+.section-brief p {
+    font-size: 22px;
+}
+
+}
+
+@media(max-width:580px){
+.first-section-text-block p {
+    font-size: 15px;
+    padding: 16px 75px;
+    line-height: 22px;
+}
+.first-section-text-block h1 {
+    font-size: 50px;
+    line-height: 35px;
+}
+.scroll-button a:first-child::after{
+	    left: 46%;
+}
+.box1 a {
+    font-size: 140px;
+    line-height: 100px;
+}
+.box1 h1 {
+    font-size: 35px;
+    line-height: 35px;
+}
+.box1 p {
+    font-size: 15px;
+    line-height: 22px;
+}
+.complexity-section {
+    
+    margin-top: 0px;
+}
+.vedio-heading h1 {
+    font-size: 50px;
+    line-height: 50px;
+}
+
+.vedio-heading p {
+    font-size: 15px;
+}
+.first-section{
+	min-height:900px;
+}
+
+.layout-section h2::after{
+	display:none;
+}
+.layout-section h2{
+	font-size: 15px;
+	margin-bottom: 20px;
+}
+.layout-section p{
+	font-size: 13px;
+}
+.carousel-control.right {
+    margin-right: 170px;
+}
+.carousel-caption {
+    width: 332px;
+    left: 36%;
+    top: 40px;
+}
+.section-brief h1 {
+    font-size: 45px;
+   
+}
+.social-media-block {
+    padding: 17px 24px;
+}
+.box2 a {
+    font-size: 140px;
+}
+.box2 h1 {
+    font-size: 50px;
+    line-height: 55px;
+}
+.box3 .media-right a {
+    font-size: 140px;
+    line-height: 140px;
+}
+.section-brief p {
+    font-size: 22px;
+   line-height: 27px;
+   padding: 0 61px;
+}
+}
+
+@media(max-width:480px){
+.first-section-text-block p {
+    font-size: 20px;
+    padding: 16px 34px;
+}
+.scroll-button a:first-child::after {
+    left: 43%;
+}
+.complexity-section h1 {
+    font-size: 46px;
+    line-height: 49px;
+}
+.complexity-section p {
+    font-size: 11px;
+}
+.complexity-section p {
+    font-size: 11px;
+    padding: 0;
+}
+
+.box2 h1 {
+    font-size: 43px;
+    line-height: 43px;
+}
+.box2 .media-body {
+    padding-right: 0px;
+}
+
+.box2 p {
+    font-size: 18px;
+    line-height: 24px;
+}
+.carousel-caption h2 {
+    font-size: 27px;
+    line-height: 33px;
+        margin-top: -21px;
+}
+.carousel-caption {
+   width: 239px;
+    left: 31%;
+    top: 40px;
+    height: 91px;
+}
+.carousel-caption p {
+    font-size: 10px;
+    line-height: 15px;
+}
+.box3 .media-right a {
+    font-size: 80px;
+       line-height: 20px;
+    /* margin-top: -47px; */
+}
+
+.carousel-control{
+	font-size: 16px;
+}
+
+.carousel-control.right {
+    margin-right: 128px;
+}
+.section-brief h1 {
+    font-size: 32px;
+    line-height: 45px;
+}
+.section-brief p{
+	padding: 0 30px;
+}
+
+.section-1 a {
+    padding: 0 29%;
+}
+.aboutus-area p {
+    font-size: 10px;
+    line-height: 20px;
+    padding: 0 0px;
+}
+.social-media-block {
+    padding: 8px 3px;
+}
+.table-section span {
+    font-size: 20px;
+}
+}
+
+@media(max-width:320px){
+.first-section-text-block h1 {
+    font-size: 40px;
+}
+.first-section-text-block p {
+    padding: 16px 5px;
+}
+.box1 a {
+    font-size: 105px;
+   
+}
+.box1 h1 {
+    font-size: 29px;
+    line-height: 30px;
+}
+
+.complexity-section h1 {
+    font-size: 36px;
+    line-height: 35px;
+}
+.layout-section i{
+	font-size: 28px;
+}
+.layout-section p{
+	font-size:13px;
+	padding: 0;
+}
+
+.vedio-heading p {
+    padding: 10px 8px;
+}
+
+.vedio-heading h1 {
+    font-size: 44px;
+    line-height: 44px;
+}
+.table-section span {
+    font-size: 17px;
+}
+.carousel-caption p {
+    font-size: 10px;
+    line-height: 15px;
+    max-height: 30px;
+    overflow: hidden;
+}
+.section-brief h1 {
+    font-size: 27px;
+    line-height: 35px;
+}
+.section-brief p {
+    padding: 0 20px;
+    font-size: 20px;
+}
+.section-brief p::after{
+	display:none;
+}
+.no{display:none;}
+.carousel-control.right {
+    margin-right: 102px;
+}
+.carousel-caption {
+    width: 162px;
+    left: 31%;
+    top: 31px;
+    height: 70px;
+}
+.carousel-caption h2 {
+    font-size: 24px;
+}
+
+.cross {
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    background-color: transparent;
+    border: 1px solid white;
+    position: absolute;
+    top: 6px;
+    right: 7px;
+}
+.cross i {
+    text-align: center;
+    line-height: 5px;
+    margin-left: 4px;
+}
+.circle {
+    height: 20px;
+    width: 20px;
+}
+.box3 .media-right a {
+    font-size: 50px;
+}
+.carousel-control{
+	margin-top:5px;
+}
+.section-brief h1 {
+    font-size: 25px;
+}
+.section-brief p {
+    padding: 0 0px;
+    font-size: 16px;
+}
+.details-card-section p:first-child {
+    margin-top: 50px;
+    font-size: 20px;
+}
+
+}
+
